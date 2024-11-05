@@ -6,10 +6,10 @@ def view():
     print (" --------------------------------------------")
     print (" viewbot v.1.0.0")
     print (" --------------------------------------------\n")
-    listingURL = input(" Link : ")
+    listingURL = input(" Link : https://www.ebay.co.uk/itm/146160723652")
     print
     # viewCount = int(raw_input(" How many views? : "))
-    viewCount = int(input(" How many views? : "))
+    viewCount = int(input(" How many views? : 100"))
 
     print
     print (" Watching ... ")
